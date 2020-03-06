@@ -1,0 +1,1 @@
+# jinmei-naist-jdic
