@@ -24,8 +24,9 @@ python jinmei_naist-jdic.py '~/naist-jdic.csv'
 
 ## Usage
 
-GitHub Pagesで[サイト](https://s1r-j.github.io/jinmei-naist-jdic/)を作成しているので、
-姓または名のリンクを押せばそれぞれのJSONファイルが返却されます。
+jinmeiフォルダ以下に姓・名それぞれのJSONデータがあります。
+
+かんたんに使うだけなら、GitHub Pagesで作成した[サイト](https://s1r-j.github.io/jinmei-naist-jdic/)で読み仮名から人名漢字を検索する事ができます。
 
 ## Licence
 
